@@ -18,11 +18,28 @@ This project analyzes recorded crime data in Ireland from 2018 to 2023. The main
 
 1. Clone the repository.
 2. Install required dependencies (see `requirements.txt`).
-3. Run the analysis scripts in the `src/` directory.
+
 
 ## Data Source
 
 The dataset consists of recorded crime statistics in Ireland from 2003 to 2019. The data is given Garda Division( An Administrative division of Ireland ) and is given QUARTERLY. The csv can be downloaded from kaggle from https://www.kaggle.com/datasets/sameerkulkarni91/crime-in-ireland#:~:text=file_download-,Download,-more_vert
+
+## Jupyter
+
+ by running:
+
+```bash
+jupyter notebook
+```
+
+This will open the Jupyter interface in your browser, where you can explore and run the analysis notebooks provided in the repository.
+
+You can also find in it directly on the file 'crime.ipybn', some of the plots retrieved from the data cleansing process are dilplayed in the './plots' folder
+
+[Dublin FRAUD/DECEPTION AND RELATED OFFENCES over the years, from 2003 to 2019](plots/dublin-fraud-2003-2019.png)
+
+and other plots generated. 
+
 
 ## License
 
