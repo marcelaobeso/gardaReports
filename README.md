@@ -26,7 +26,7 @@ The dataset consists of recorded crime statistics in Ireland from 2003 to 2019. 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the This project is licensed under the Creative Commons License.
 
 ## Contact
 
