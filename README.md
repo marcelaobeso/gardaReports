@@ -36,7 +36,7 @@ This will open the Jupyter interface in your browser, where you can explore and 
 
 You can also find in it directly on the file 'crime.ipybn', some of the plots retrieved from the data cleansing process are dilplayed in the './plots' folder
 
-[Dublin FRAUD/DECEPTION AND RELATED OFFENCES over the years, from 2003 to 2019](plots/dublin-fraud-2003-2019.png)
+![Dublin FRAUD/DECEPTION AND RELATED OFFENCES over the years, from 2003 to 2019](plots/dublin-fraud-2003-2019.png)
 
 and other plots generated. 
 
